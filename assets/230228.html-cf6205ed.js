@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-02ac5d86","path":"/blogs/front/2023/230228.html","title":"自动部署","lang":"en-US","frontmatter":{"title":"自动部署","date":"2023/02/28","author":"wsy","tags":["部署"],"categories":["前端"]},"headers":[{"level":2,"title":"安装","slug":"安装","link":"#安装","children":[]}],"git":{},"filePathRelative":"blogs/front/2023/230228.md"}');export{t as data};
